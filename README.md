@@ -29,6 +29,38 @@ Study for SC-200 Exam
 
 -Threat Intelligence: A dedicated team provides strategic and technical insights to all SOC tiers, enhancing detection, response, and long-term defense strategies.
 
+# Mitigate incidents using Microsoft Defender
+
+## Using the Microsoft Defender portal
+
+The Microsoft Defender portal (https://security.microsoft.com/) is a unified security workspace for Microsoft 365, tailored for security teams. It provides integrated protection, detection, investigation, and response across email, devices, identities, apps, and cloud environments.
+
+Key features include:
+
+- Role-based dashboards with relevant insights and alerts based on user roles.
+
+- Centralized view of threats from various Microsoft security tools.
+
+- Streamlined access to security data, incidents, and evidence to aid quick remediation.
+
+Integrated solutions in the portal:
+
+- Defender for Office 365 – Protects email and Office 365 from threats.
+
+- Defender for Endpoint – Provides device threat detection and response.
+
+- Defender XDR – Correlates threat data across Microsoft 365 for complete attack analysis.
+
+- Defender for Cloud Apps – Secures SaaS/PaaS apps with visibility and threat protection.
+
+- Defender for Identity – Detects threats from compromised or malicious users via on-prem AD.
+
+- Defender Vulnerability Management – Identifies and helps fix security misconfigurations and vulnerabilities.
+
+- Defender for IoT – Protects industrial and OT systems.
+
+- Microsoft Sentinel – SIEM/SOAR platform that integrates with Defender XDR for advanced incident management.
+
 ## Configure alert and vulnerability notification rules
 
 ## Configure Microsoft Defender for Endpoint advanced features
