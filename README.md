@@ -42,7 +42,7 @@ Study for SC-200 Exam
 ## Investigate security incidents in Microsoft Defender XDR
 
 Azure Sentinel > Incidents > Click on incident > Investigate in Azure Defender > Related entities / Azure Resource, File and Malware >
-Next: Take action > Prevent future attacks / Store account public access should be disallowed > remediation steps > quick fix logic > fix > fix 1 resource
-> go back to investigate in azure for incident . linked malicous storage artifacts > view playbooks > run playbook
+Next: Take action > Prevent future attacks / Store account public access should be disallowed > remediation steps > quick fix logic > fix > fix 1 resource >
+go back to investigate in azure for incident . linked malicous storage artifacts > view playbooks > run playbook
 
 Incident > alerts > click on alert > "An office application ran suspicious commands" / Or whatever the alert is named > 
